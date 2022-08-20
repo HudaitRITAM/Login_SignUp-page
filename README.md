@@ -4,7 +4,7 @@ Login Signup page with a good style
 Primary Login And SignUp page it is
 
 ### Feature
-Two different section are there one is for login and another is for sign up.There is click option on the which can move to user login page to signUp saction and vice versa
+Two different section are there one is for login and another is for sign up.There is a click option on the top which can move user, login section to signUp saction and vice versa
 
 ***Technology Use***
 <br>HTML
