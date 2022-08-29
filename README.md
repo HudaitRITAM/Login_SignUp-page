@@ -9,6 +9,8 @@ Two different section are there one is for login and another is for sign up.Ther
 ***Technology Use***
 <br>HTML
 <br>CSS
+<br>cdnjs - Font-awesome
+
 ### Outut
 ![Alt text](output1.png?raw=true "Landing Page")
 ***Landing Page***
